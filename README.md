@@ -14,11 +14,11 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
 - 👨‍💻 Skills: Web Developement, Java, Data Science.
 
-![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=cyan)
+![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=lightblue)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
-![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=wheat)
+![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=orange)
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
-![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
+![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=lightblue)
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410)](https://github.com/anuraghazra/github-readme-stats)
