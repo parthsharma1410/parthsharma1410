@@ -14,9 +14,9 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
 - 👨‍💻 Skills: Web Developement, Java, Data Science.
 
-![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
-![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=black)
-![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=black)
+![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=brown)
+![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
+![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=lightblue)
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=yellow)
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
