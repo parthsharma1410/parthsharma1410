@@ -5,7 +5,7 @@
 # Welcome!
 I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I try my best to be a full stack Web Developer and I have an immense appetite for trying out new languages and learning new skills. My first language is Java, followed by Javascript & Python. 
 
-Music and working out helps me relax and maintain a zen state of mind.
+☯️ Music and working out helps me relax and maintain a zen state of mind.
 
 ### Summary👋
 - 🔭 I’m currently working with Frontend using Reactjs. My upcoming targets are working with Data Science & Blockchains.
