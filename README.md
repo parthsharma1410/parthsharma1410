@@ -10,9 +10,9 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 ### Summary👋
 - 🔭 I’m currently working with Frontend using Reactjs. My upcoming targets are working with Data Science & Blockchains.
 - 👨 Skilled in Web Development. I have also worked on some machine learning projects.
-- 👯 Always in for transforming great ideas into web apps.
+- 🕺 Always in for transforming great ideas into web apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
-- 😄 Skills: Web Developement, Java, Data Science.
+- 👨‍💻 Skills: Web Developement, Java, Data Science.
 
 ![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=black)
