@@ -1,4 +1,4 @@
-[![![Linkedin Badge](https://img.shields.io/badge/-parthsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sharma-59a5851aa/)](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-parthsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-sharma-59a5851aa/)](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
 [![Gmail Badge](https://img.shields.io/badge/-parthsharmabareilly@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthsharmabareilly@gmail.com)](mailto:parthsharmabareilly@gmail.com)
 ---
 
