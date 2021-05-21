@@ -22,6 +22,6 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=lightblue)
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=parthsharma1410&show_icons=true)
