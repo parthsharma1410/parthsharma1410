@@ -24,4 +24,4 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410&langs_count=10&layout=compact&theme=chartreuse-dark&icon_color=00ffff&count_private=true)
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=parthsharma1410&show_icons=true&locale=en&theme=blue-green" alt="parthsharma1410" width="400" />
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=parthsharma1410&show_icons=true&locale=en&theme=blue-black" alt="parthsharma1410" width="400" />
