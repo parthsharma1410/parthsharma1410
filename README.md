@@ -13,7 +13,7 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 - 💻 Skilled in Web Development. I have also worked on various machine learning projects.
 - 🕺 Always in for transforming great ideas into web apps.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
-- 👨‍💻 Skills: Web Developement, Java, Data Science.
+- 👨‍💻 Skills: Web Developement, Java, Data Science, Blockchain.
 
 ![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
