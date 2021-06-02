@@ -21,6 +21,7 @@ I am a second year student at VIT Vellore pursuing B.Tech in Computer Science. I
 ![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=lightblue)
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
+![solidity](http://img.shields.io/static/v1?logo=c&label=&message=Solidity&style=flat-square&color=black)
 
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
