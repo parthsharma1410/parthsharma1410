@@ -8,7 +8,7 @@ I am a second year student at VIT-Vellore pursuing B.Tech in Computer Science. I
 
 ☯️ Music and working out help me relax and maintain a zen state of mind.
 
-### Summary🗣️
+### Summary👨🏻‍💻
 - 🔭 I’m currently working with Frontend using Reactjs. My upcoming targets are working with Angular, Threejs, Data Science & Blockchain.
 - 💻 Skilled in Web Development. I have also worked on various machine learning projects.
 - 🕺 Always in for transforming great ideas into web apps.
