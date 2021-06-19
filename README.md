@@ -25,5 +25,5 @@ I am a second year student at VIT-Vellore pursuing B.Tech in Computer Science. I
 
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma1410&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
-![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parthsharma1410&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+![Parth's Github stats](https://github-readme-stats.vercel.app/api?username=parthsharma1410&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
