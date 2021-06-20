@@ -18,7 +18,7 @@ I am a second year student at VIT-Vellore pursuing B.Tech in Computer Science. I
 ![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
 ![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=orange)
-![java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
+![Java](http://img.shields.io/static/v1?logo=java&label=&message=Java&style=flat-square&color=red)
 ![python](http://img.shields.io/static/v1?logo=python&label=&message=Python&style=flat-square&color=lightblue)
 ![c](http://img.shields.io/static/v1?logo=c&label=&message=C&style=flat-square&color=blue)
 ![solidity](http://img.shields.io/static/v1?logo=solidity&label=&message=Solidity&style=flat-square&color=black)
