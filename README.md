@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-parthsharma-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/@parth-sharma)](https://medium.com/@parth-sharma)
 ---
 
-# Welcome! 
+# Welcome! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>
 <!-- <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/> -->
 I am a third year student at VIT Vellore pursuing B.Tech in Computer Science. I try my best to be a full-stack Web Developer and I have an immense appetite for trying out new languages and learning new skills. My first language is Java, followed by JavaScript, Python & C, and I am a beginner with Rust.
 
