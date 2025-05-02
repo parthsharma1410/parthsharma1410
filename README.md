@@ -3,18 +3,13 @@
 [![Medium Badge](https://img.shields.io/badge/-parthsharma-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/@parth-sharma)](https://medium.com/@parth-sharma)
 ---
 
-# Welcome! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>
+# Hey there! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>
 <!-- <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/> -->
-I am a final year student at VIT Vellore pursuing B.Tech in Computer Science. I try my best to be a full-stack Web Developer and I have an immense appetite for trying out new languages and learning new skills. My first language is Java, followed by JavaScript, Python & C, and I am a beginner with Rust.
 
-☯️ Music and working out help me relax and maintain a zen state of mind :)
-
-### Summary👨🏻‍💻
-- 🔭 I’m currently working with Frontend using Reactjs and Angular. My upcoming targets are working with Threejs, Unity, Data Science, Spring & Blockchain.
-- 💻 Skilled in Web Development. I have also worked on various machine learning projects.
-- 🕺  Always in for transforming great ideas into web apps.
+- 🔭 I’m currently working with C# .NET MVC, as well as Reactjs.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/parth-sharma-59a5851aa/)
-- 🎯 Skills: Web Developement, Java, Data Science, Blockchain.
+- [Portfolio](https://bold.pro/my/parth-sharma-250417173042)
+- 🎯 Skills: Web Developement, Cybersecurity, Microservices, C#, .NET MVC, Java, Data Science, Blockchain.
 
 ![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
