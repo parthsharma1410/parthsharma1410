@@ -11,7 +11,7 @@
 - [Portfolio](https://bold.pro/my/parth-sharma-250417173042)
 - 🎯 Skills: Web Developement, Cybersecurity, Microservices, C#, .NET MVC, Java, Data Science, Blockchain.
 
-![c-sharp](http://img.shields.io/static/v1?logo=c-sharp&label=&message=Reactjs&style=flat-square&color=black)
+![c-sharp](http://img.shields.io/static/v1?logo=c-sharp&label=&message=c-sharp&style=flat-square&color=white)
 ![ReactJs](http://img.shields.io/static/v1?logo=React&label=&message=Reactjs&style=flat-square&color=black)
 ![NodeJs](http://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&style=flat-square&color=beige)
 ![Javascript](http://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&style=flat-square&color=orange)
